@@ -15,3 +15,4 @@ One may find codes that tackle the following problems:
 
 > These codes use the *DeepXDE* package, so an installation is to be done prior to running the code.
 > We advise you to use GPU and TPU to run these codes as they require several hours or even several days to run in a CPU environment.
+> If the codes do not run, there might be an issue with the versions of the packages and the libraries used in them.
